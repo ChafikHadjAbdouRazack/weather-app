@@ -31,7 +31,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ###Images demo devices
 
 Pc_demo
-<img style="height: 500px; weight: 200px;" src="./images/pc_demo.png">
+<img style="height: 300px; weight: 80px;" src="./images/pc_demo.png">
 
 <img src="./images/tablet_demo.png">
 <img src="./images/phone_demo_1.jpeg">
