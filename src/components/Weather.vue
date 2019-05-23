@@ -2,7 +2,7 @@
     <div class="weather">
         <form v-on:submit.prevent="getWeather">
             <ion-grid style="background: transparent;">
-              <ion-row style="background: transparent;" color="primary" justify-content-center>
+              <ion-row style="background: transparent; margin-top: 66px;" color="primary" justify-content-center>
                 <ion-col style="background: transparent;" align-self-center size-md="6" size-lg="5" size-xs="12">
                   <div padding style="background: transparent;">
                       <ion-item style="--background: transparent;">
@@ -54,7 +54,7 @@
                 tempMin:'',
                 tempMax:'',
                 humidity:'',
-                API_KEY:'YOUR_API_KEY',
+                API_KEY:'YOUR_openweathermap_API_KEY',
                 isDisabled: true,
                 timeout: 3000
             }
