@@ -54,7 +54,7 @@
                 tempMin:'',
                 tempMax:'',
                 humidity:'',
-                API_KEY:'d63783958914771e7b1abff1566d9001',
+                API_KEY:'YOUR_openweathermap_API_KEY',
                 isDisabled: true,
                 timeout: 3000
             }
